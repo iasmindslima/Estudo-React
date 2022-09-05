@@ -11,7 +11,7 @@ createServer({
       return [
         {
           id: 1,
-          title: 'Transactions one',
+          title: 'Transaction one',
           amount: 400,
           type: 'deposit',
           category: 'food',
